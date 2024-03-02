@@ -1,0 +1,2 @@
+# ghost
+say,hi
